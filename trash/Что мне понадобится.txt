@@ -1,8 +1,0 @@
-1. Arduino Nano, 3 шт. - http://www.aliexpress.com/item/Freeshipping-Nano-3-0-controller-compatible-for-arduino-nano-CH340-USB-driver-NO-CABLE/32341832857.html
-2. Плата макетная 90х150, 1 шт. - http://www.aliexpress.com/item/Hot-sale-Double-Side-Prototype-Universal-FR-4-Glass-Fiber-PCB-Board-90x150mm-70501/32366523322.html
-3. Разьем для втыкания ардуинки, 6 пин, 20 шт. - http://www.aliexpress.com/item/20pcs-Set-6-Pin-Female-tall-stackable-Header-Connector-socket-for-Arduino-Shield-Free-Shipping/32374306335.html
-4. Проводки
-
-Из того, что есть на старой плате:
-3. Диоды 6A10, 10 шт. - http://www.aliexpress.com/item/Free-Shipping-10PCS-6A10-6A-1000V-1KV-6-Amp-Axial-Rectifier-Diode/1885216296.html
-4. 

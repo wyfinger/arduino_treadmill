@@ -1,5 +1,0 @@
-ROM = 28 FF F5 B3 63 15 2 CB
-  Chip = DS18B20
-  Data = 1 97 1 4B 1 7F FF C 10 5B  CRC=5B
-  Temperature = 25.44 Celsius, 77.79 Fahrenheit
-No more addresses.
