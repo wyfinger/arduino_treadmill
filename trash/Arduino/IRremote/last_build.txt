@@ -1,0 +1,13 @@
+{
+    "bare_gcc": false, 
+    "big_project": false, 
+    "board_id": "ide.arduino.avr.nano", 
+    "ide_path": "D:\\Program Files\\arduino-1.6.5-r5", 
+    "lib_paths": [
+        "D:\\Program Files\\arduino-1.6.5-r5\\libraries\\IRremote"
+    ], 
+    "sketchbook_path": "C:\\Treadmill\\Arduino", 
+    "sub_board_ids": [
+        "ide.arduino.avr.nano.cpu.atmega328"
+    ]
+}

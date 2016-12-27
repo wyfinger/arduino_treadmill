@@ -1,0 +1,38 @@
+LISA MODEL DESCRIPTION FORMAT 6.0
+=================================
+Design:   UNTITLED.DSN
+Doc. no.: <NONE>
+Revision: <NONE>
+Author:   <NONE>
+Created:  05/06/03
+Modified: 05/06/03
+
+*PROPERTIES,0    
+
+*MODELDEFS,0    
+
+*PARTLIST,2    
+U1,NAND_2,NAND_2,INVERT=D0,PRIMITIVE=DIGITAL
+U2,NAND_2,NAND_2,INVERT=D0,PRIMITIVE=DIGITAL
+
+*NETLIST,4    
+R,2
+R,IT
+U1,IP,D0
+
+Q,3
+Q,OT
+U1,IP,D1
+U2,OP,Q
+
+$Q$,3
+$Q$,OT
+U1,OP,Q
+U2,IP,D1
+
+S,2
+S,IT
+U2,IP,D0
+
+*GATES,0    
+
